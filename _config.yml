@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Project pro2dis2"
+title                    : "pro2dis2"
 title_separator          : "-"
 name                     : &name "pro2dis2"
-description              : &description "personal description"
+description              : &description "Research project pro2dis2"
 url                      : https://pro2dis2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pro2dis2/pro2dis2.github.io"
@@ -202,6 +202,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: ""
