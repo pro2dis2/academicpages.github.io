@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Goals"
+    url: /Goals/  
+    
   - title: "Publications"
     url: /publications/
 
@@ -7,4 +10,5 @@ main:
     url: /talks/    
 
   - title: "Team"
-    url: /team/    
+    url: /team/   
+ 
