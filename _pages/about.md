@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "pro2dis2: Probabilistic, prosodic and discourse effects on acoustic distinctiveness in speech"
+title: "Probabilistic, prosodic and discourse effects on acoustic distinctiveness in speech"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
