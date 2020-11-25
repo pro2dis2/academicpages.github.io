@@ -1,10 +1,9 @@
 ---
-title: Team
-layout: collection
-permalink: /team/
-collection: team
-entries_layout: grid
-classes: wide
+permalink: /
+title: "Team"
+excerpt: "Team"
+author_profile: true
+redirect_from: 
+  - /team/
+  - /team.html
 ---
-
-lbldlsldal
