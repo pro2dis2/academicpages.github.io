@@ -4,7 +4,7 @@ title: "Goals"
 excerpt: "Goals"
 author_profile: true
 redirect_from: 
-  - /goals
+  - /goals/
   - /goals.html
 ---
 
