@@ -7,6 +7,10 @@ redirect_from:
   - /team/
   - /team.html
 ---
+dr Zofia Malisz - Principal Investigator
 
+---
+prof. dr hab. Małgorzata Kul - Researcher
 
-sdlkfjdlkfj
+---
+to be named - PhD student
