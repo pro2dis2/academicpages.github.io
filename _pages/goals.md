@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /goals/
 title: "Goals"
 excerpt: "Goals"
 author_profile: true
@@ -7,6 +7,7 @@ redirect_from:
   - /goals/
   - /goals.html
 ---
+
 
 When we speak, we lengthen and acoustically expand some segments and words, and reduce others. Typically, the elements that are important or infrequent are expanded, and those that are obvious from context or occur often, reduced. In other words, we vary the element’s acoustic distinctiveness as its information content varies. The general aim of this project is to study how information is mapped onto speech signal variability. 
 
