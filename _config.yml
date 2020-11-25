@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Funded by the National Science Centre"
+  name             : "Funded by the National Science Centre, Poland"
   avatar           : "profile.png"
   bio              : "Grant no. 2020/37/B/HS2/04161"
   location         : "Adam Mickiewicz University, PL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.de/citations?user=KoA-B5EAAAAJ&hl"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
